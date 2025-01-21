@@ -7,7 +7,7 @@ I hope u have an intresting and seamless User Experience✨.
 
 ### Live Demo
 
-[Live Demo link](https://multicolouredcircle33.github.io/HTML-CSS-CAPSTONE-PROJECT./)
+[Live Demo link](https://multicolouredcircle33.github.io/my-personal-website/)
 
 
 
@@ -21,7 +21,7 @@ I hope u have an intresting and seamless User Experience✨.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/multicolouredcircle33/HTML-CSS-CAPSTONE-PROJECT./issues).
+Feel free to check the [issues page](https://github.com/multicolouredcircle33/my-personal-website/issues).
 
 ## Show your support
 
